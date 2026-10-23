@@ -1,3 +1,4 @@
 lightgbm
 pyarrow
 joblib
+sklearn

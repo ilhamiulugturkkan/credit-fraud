@@ -1,4 +1,6 @@
 lightgbm
 pyarrow
 joblib
-sklearn
+scikit-learn
+pandas
+numpy

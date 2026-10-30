@@ -1,6 +1,3 @@
-lightgbm
+lightgbm==4.6.0
 pyarrow
 joblib
-scikit-learn
-pandas
-numpy
